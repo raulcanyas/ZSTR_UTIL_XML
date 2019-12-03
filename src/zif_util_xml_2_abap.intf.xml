@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Util - Conversión XML a ABAP</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+     <CMPNAME>CONVERT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Convertir datos a ABAP</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+     <CMPNAME>F4_OPEN_FILE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Ayuda Búsqueda Abrir Fichero</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+     <CMPNAME>GET_XML</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recuperar XML cargado</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+     <CMPNAME>LOAD</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Cargar datos (XML o Base64)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+     <CMPNAME>SHOW_XML</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Visualizar XML</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_UTIL_XML_2_ABAP</CLSNAME>
+     <CMPNAME>UPLOAD</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Cargar fichero (XML o Base64)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

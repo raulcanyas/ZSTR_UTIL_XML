@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Util - XML</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>CS_DATA_TYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tipos de datos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>F4_LOCAL</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Ayuda búsqueda Local</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>GET_ABAP_2_XML</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recuperar instancia de Conversor ABAP a XML</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>GET_XML_2_ABAP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Recuperar instancia de Conversor XML a ABAP</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>MR_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Datos ABAP</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>MV_BASE64</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Datos en formato Base64</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>MV_DATA_TYPE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Tipo de datos (XML o Base64)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>MV_XML</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Datos en formato XML</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_XML</CLSNAME>
+     <CMPNAME>SHOW_XML</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Visualizar XML en pantalla</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
